@@ -1,0 +1,7 @@
+#Ignora los archivos de texto 
+*.txt 
+#Vscode
+*.vscode
+*settings.json
+#General
+*Random.py 
